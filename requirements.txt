@@ -1,0 +1,43 @@
+
+
+# AI Tax Computation Engine - Development Dependencies
+
+# Django and Core
+Django==5.0.1
+djangorestframework==3.14.0
+django-filter==23.5
+
+# CORS Support
+django-cors-headers==4.3.1
+
+# Environment Variables
+python-dotenv==1.0.0
+django-environ==0.11.2
+
+# API Documentation
+drf-yasg==1.21.7
+
+# Excel Processing
+openpyxl==3.1.2
+pandas==2.1.4
+xlrd==2.0.1
+
+# Azure Integration
+azure-storage-blob==12.19.0
+openai==1.6.1
+
+# HTTP Requests
+requests==2.31.0
+
+# YAML Support
+PyYAML==6.0.1
+
+# Production Server
+gunicorn==21.2.0
+
+# Development Tools
+django-debug-toolbar==4.2.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3.post1
